@@ -1,4 +1,4 @@
-Projeto Integrador do curso Técnico em Automação Industrial (SENAI / FATEC SENAI, Três Lagoas, MS, 2026). Autores: Carlos Henrique Maciel Ramires, Julio Cesar de Souza Pedro e Mizael Oliveira dos Santos. Orientadora: Profa. Andressa Helena Melo Costa.
+Projeto Integrador do curso Técnico em Automação Industrial (SENAI / FATEC SENAI, Três Lagoas, MS, 2026). Autores: Carlos Henrique Maciel Ramires, Julio Cesar de Souza Pedro e Mizael Oliveira dos Santos. Orientadores: Profa. Dra. Andressa Helena Melo Costa e Prof. Lucas Araújo Aranha.
 # Torre de Resfriamento: supervisório 3D
 
 Supervisório com a torre de resfriamento em **3D (Three.js)**, ligado ao **Arduino Uno** pela USB.
